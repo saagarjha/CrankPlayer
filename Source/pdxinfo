@@ -1,0 +1,5 @@
+name=Crank Player
+author=Saagar Jha
+description=A crank-based video player
+bundleID=com.saagarjha.crankplayer
+imagePath=

@@ -1,0 +1,13 @@
+CrankPlayer.pdx
+Source/pdex.bin
+Source/pdex.dylib
+Source/pdex.so
+Source/pdex.elf
+build/
+.nova
+.cache
+compile_commands.json
+
+Source/video.pdv
+Source/audio.wav
+Source/audio_reversed.wav
